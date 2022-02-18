@@ -1,9 +1,11 @@
 <template>
-  <div>
-    <Header/>
-    <Home/>
-    <Tabs/>
-  </div>
+  <div class="flex flex-col h-screen shadow-2xl overflow-hidden">
+    <Header class="w-full" />
+    <main class="flex-1 overflow-y-scroll">
+      <Home/>
+    </main>
+    <Footer class="w-full shadow-2xl h-16" />
+</div>
 </template>
 
 <script>
