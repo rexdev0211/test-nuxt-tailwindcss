@@ -1,6 +1,5 @@
-<!-- Please remove this file from your project -->
 <template>
-  <div class="bg-cyan-50 min-h-screen overflow-y-scroll">
+  <div class="bg-cyan-50">
     <div class="h-32 flex justify-center items-center">
       <span class="text-5xl text-center">Deine Job website</span>
     </div>

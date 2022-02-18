@@ -3,6 +3,7 @@
     <Header class="w-full" />
     <main class="flex-1 overflow-y-scroll">
       <Home/>
+      <Tabs/>
     </main>
     <Footer class="w-full shadow-2xl h-16" />
 </div>
